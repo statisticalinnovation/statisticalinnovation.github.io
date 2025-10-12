@@ -7,7 +7,7 @@ url: "https://statisticalinnovation.github.io"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: moonwalk
+remote_theme: sighingnow/jekyll-gitbook
 
 # GitHub Pages
 repository: statisticalinnovation/statisticalinnovation.github.io
@@ -15,6 +15,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Navigation
 header_pages:
@@ -33,14 +34,17 @@ author:
 twitter_username: statinnovation
 github_username: statisticalinnovation
 
-# Moonwalk theme settings
-theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
-  appearance_toggle: true
-  back_home_text: "home.."
-  date_format: "%Y-%m-%d"
-  show_description: true
-  show_navbar: true
+# GitBook theme settings
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
+# Code highlighting
+syntax_highlighter_style: colorful
+
+# GitBook specific
+gitbook_version: "3.2.3"
 
 # Exclude from processing
 exclude:
