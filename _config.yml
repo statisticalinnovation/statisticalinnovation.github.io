@@ -1,5 +1,5 @@
 # Site settings
-title: Statistical Innovation Community Summit
+title: The Statistical Innovation Community
 description: Empowering Statistical Innovation in Pharmaceuticals
 baseurl: ""
 url: "https://statisticalinnovation.github.io"
@@ -7,7 +7,7 @@ url: "https://statisticalinnovation.github.io"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-theme-architect
+remote_theme: pages-themes/dinky@v0.2.0
 
 # GitHub Pages
 repository: statisticalinnovation/statisticalinnovation.github.io
@@ -15,6 +15,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Navigation
 header_pages:
@@ -26,14 +27,12 @@ header_pages:
 
 # Author info
 author:
-  name: Statistical Innovation Community
-  email: contact@statinnovation.org
+  name: The Statistical Innovation Community
+  email: statinnovation@gmail.com
 
 # Social
-twitter_username: statinnovation
+twitter_username: statisticalinnovation
 github_username: statisticalinnovation
-
-# Architect theme uses default Jekyll settings
 
 # Exclude from processing
 exclude:
