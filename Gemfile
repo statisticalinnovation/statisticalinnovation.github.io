@@ -3,6 +3,7 @@ source "https://rubygems.org"
 # GitHub Pages compatibility - use github-pages gem which includes Jekyll
 gem "github-pages", "~> 228", group: :jekyll_plugins
 gem "webrick", "~> 1.7"
+gem "moonwalk"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
