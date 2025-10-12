@@ -83,7 +83,7 @@ We welcome contributions from the statistical innovation community:
 
 - **Email**: contact@statinnovation.org
 - **Twitter**: [@statinnovation](https://twitter.com/statinnovation)
-- **GitHub**: [Statistical Innovation Community](https://github.com/chenguang-wang/statistical-innovation-summit)
+- **GitHub**: [Statistical Innovation Community](https://github.com/statisticalinnovation/statisticalinnovation.github.io)
 
 ## License
 

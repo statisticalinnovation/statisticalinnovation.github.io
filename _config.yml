@@ -2,7 +2,7 @@
 title: Statistical Innovation Community Summit
 description: Empowering Statistical Innovation in Pharmaceuticals
 baseurl: ""
-url: "https://chenguang-wang.github.io/statistical-innovation-summit"
+url: "https://statisticalinnovation.github.io"
 
 # Build settings
 markdown: kramdown
@@ -10,7 +10,7 @@ highlighter: rouge
 theme: minima
 
 # GitHub Pages
-repository: chenguang-wang/statistical-innovation-summit
+repository: statisticalinnovation/statisticalinnovation.github.io
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -31,7 +31,7 @@ author:
 
 # Social
 twitter_username: statinnovation
-github_username: chenguang-wang
+github_username: statisticalinnovation
 
 # Exclude from processing
 exclude:
