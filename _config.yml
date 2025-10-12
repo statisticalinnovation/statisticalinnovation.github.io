@@ -10,7 +10,7 @@ highlighter: rouge
 theme: minima
 
 # GitHub Pages
-repository: statisticalinnovation/statisticalinnovation
+repository: statisticalinnovation/statisticalinnovation.github.io
 plugins:
   - jekyll-feed
   - jekyll-sitemap
