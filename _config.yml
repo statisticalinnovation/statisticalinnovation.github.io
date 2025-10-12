@@ -7,7 +7,7 @@ url: "https://statisticalinnovation.github.io"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-remote_theme: sighingnow/jekyll-gitbook
+theme: jekyll-theme-architect
 
 # GitHub Pages
 repository: statisticalinnovation/statisticalinnovation.github.io
@@ -15,7 +15,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 # Navigation
 header_pages:
@@ -34,17 +33,7 @@ author:
 twitter_username: statinnovation
 github_username: statisticalinnovation
 
-# GitBook theme settings
-toc:
-  enabled: true
-  h_min: 1
-  h_max: 3
-
-# Code highlighting
-syntax_highlighter_style: colorful
-
-# GitBook specific
-gitbook_version: "3.2.3"
+# Architect theme uses default Jekyll settings
 
 # Exclude from processing
 exclude:
