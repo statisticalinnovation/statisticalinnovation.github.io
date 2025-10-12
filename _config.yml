@@ -1,0 +1,44 @@
+# Site settings
+title: Statistical Innovation Community Summit
+description: Empowering Statistical Innovation in Pharmaceuticals
+baseurl: ""
+url: "https://chenguang-wang.github.io/statistical-innovation-summit"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# GitHub Pages
+repository: chenguang-wang/statistical-innovation-summit
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - summit-2024.md
+  - summit-2023.md
+  - resources.md
+
+# Author info
+author:
+  name: Statistical Innovation Community
+  email: contact@statinnovation.org
+
+# Social
+twitter_username: statinnovation
+github_username: chenguang-wang
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
