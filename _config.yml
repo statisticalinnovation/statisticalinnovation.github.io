@@ -18,7 +18,6 @@ plugins:
 
 # Navigation
 header_pages:
-  - about.md
   - summit-2024.md
   - summit-2023.md
   - resources.md
