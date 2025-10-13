@@ -1,6 +1,6 @@
 # Site settings
 title: The Statistical Innovation Community
-description: Empowering Statistical Innovation in Pharmaceuticals
+# description: Empowering Statistical Innovation in Pharmaceuticals
 baseurl: ""
 url: "https://statisticalinnovation.github.io"
 
