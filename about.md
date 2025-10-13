@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-# About the Statistical Innovation Community Summit
+# About the Statistical Innovation Community
 
 ## Vision Statement
 
-The Statistical Innovation Community Summit aims to be the premier forum for advancing statistical innovation in pharmaceutical research and development. We envision a future where statistical innovators are recognized as essential contributors to medical product development, with clear career paths and organizational support.
+The Statistical Innovation Community aims to be the premier forum for advancing
+statistical innovation in pharmaceutical research and development. We envision a
+future where statistical innovators are recognized as essential contributors to
+medical product development, with clear career paths and organizational support.
 
 ## Our Story
 
-The Statistical Innovation Community Summit emerged from discussions at the Regulatory-Industry Statistics Workshop (RISW) 2023, where leaders recognized the need for a dedicated forum to address the unique challenges and opportunities facing statistical innovation groups.
+The Statistical Innovation Community emerged from discussions at the
+Regulatory-Industry Statistics Workshop (RISW) 2023, where leaders recognized
+the need for a dedicated forum to address the unique challenges and
+opportunities facing statistical innovation groups.
 
 ### The Need for Innovation
 
@@ -40,25 +46,18 @@ Our community focuses on overcoming both technical and operational obstacles:
 
 ## Organizing Leadership
 
-### Co-Chairs
-- **Chenguang Wang**, Regeneron Pharmaceuticals
+### Chair
 - **Satrajit Roychoudhury**, Pfizer Inc.
 
 ### Organizing Committee
 - May Mo, Amgen
+- CG Wang, Regeneron
 - Elena Polverejan
 - Kentaro Takeda, Astellas
 - Xiaolong (Ron) Yu, Gilead
 - Jinglin Zhong
-- Jose Ma. Alvir
-- Marcia Levenstein
 
-## Sponsors and Supporters
-
-- **ASA New York Metro Area Chapter** - Primary Sponsor
-- **Regeneron Pharmaceuticals** - Hosting Partner (2023)
-- **Amgen** - Hosting Partner (2024)
-- **Pfizer** - Future Hosting Partner (2025)
+## Supporters
 
 ## Community Principles
 

@@ -1,17 +1,22 @@
 ---
 layout: home
-title: Statistical Innovation Community Summit
+title: The Statistical Innovation Community
 ---
 
-# Welcome to the Statistical Innovation Community Summit
+# Welcome to the Statistical Innovation Community
 
 ## From Applying Innovation to Building an Innovative Culture
 
-The Statistical Innovation Community Summit brings together statisticians from the FDA, academia, and pharmaceutical companies to discuss how statistical innovation efforts can optimally enhance medical product development.
+The Statistical Innovation Community Summit brings together statisticians from
+the FDA, academia, and pharmaceutical companies to discuss how statistical
+innovation efforts can optimally enhance medical product development.
 
 ### Mission
 
-Our mission is to foster collaboration and knowledge sharing among statistical innovators, promoting best practices that accelerate the development of new medical products for patients while maintaining the highest standards of scientific rigor.
+Our mission is to foster collaboration and knowledge sharing among statistical
+innovators, promoting best practices that accelerate the development of new
+medical products for patients while maintaining the highest standards of
+scientific rigor.
 
 ### Key Focus Areas
 
@@ -20,7 +25,7 @@ Our mission is to foster collaboration and knowledge sharing among statistical i
 - **Organizational Excellence**: Building effective statistical innovation groups and cultures within pharmaceutical organizations
 - **Career Development**: Defining clear career paths for statistical innovators
 
-### Recent Summit Highlights
+### Recent Highlights
 
 #### 2024 Summit (September 24, 2024)
 **Location**: Amgen, Rockville, MD
@@ -49,4 +54,4 @@ Join our growing community of statistical innovators who are shaping the future 
 
 ---
 
-*The Statistical Innovation Community Summit is supported by the ASA New York Metro Area Chapter and leading pharmaceutical organizations.*
+*The Statistical Innovation Community Summit is supported by the ASA Biopharmaceutical Section and leading pharmaceutical organizations.*
