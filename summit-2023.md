@@ -4,8 +4,6 @@ title: 2023 Inaugural Summit
 permalink: /summit-2023/
 ---
 
-# 2023 Inaugural Statistical Innovation Community Summit
-
 **Theme**: "From Applying Innovation to Building an Innovative Culture"
 
 **Date**: November 9, 2023

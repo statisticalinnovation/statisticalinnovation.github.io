@@ -4,8 +4,6 @@ title: 2024 Summit
 permalink: /summit-2024/
 ---
 
-# 2024 Statistical Innovation Community Summit
-
 **Date**: September 24, 2024
 **Location**: Amgen, 9605 Medical Center Drive, Rockville, MD 20850
 **Format**: In-person conference
