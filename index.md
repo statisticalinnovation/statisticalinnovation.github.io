@@ -48,22 +48,10 @@ Our community focuses on overcoming both technical and operational obstacles:
 - Developing sustainable resource models
 - Creating formal processes for innovation integration
 
-## Organizing Leadership
 
-### Chair
-- **Satrajit Roychoudhury**, Pfizer Inc.
+## Recent Highlights
 
-### Organizing Committee
-- May Mo, Amgen
-- CG Wang, Regeneron
-- Elena Polverejan
-- Kentaro Takeda, Astellas
-- Xiaolong (Ron) Yu, Gilead
-- Jinglin Zhong
-
-### Recent Highlights
-
-#### 2024 Summit (September 24, 2024)
+### 2024 Summit (September 24, 2024)
 **Location**: Amgen, Rockville, MD
 
 Key themes discussed:
@@ -71,7 +59,7 @@ Key themes discussed:
 - Challenges facing innovation groups
 - Future directions for the statistical innovation community
 
-#### 2023 Inaugural Summit (November 9, 2023)
+### 2023 Inaugural Summit (November 9, 2023)
 **Location**: Regeneron Pharmaceuticals, Tarrytown, NY
 
 The inaugural summit brought together over 100 participants from more than 20 pharmaceutical companies, the FDA, and academic institutions.
