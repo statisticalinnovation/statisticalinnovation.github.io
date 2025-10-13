@@ -1,10 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: home
+title: The Community
 ---
-
-# About the Statistical Innovation Community
 
 ## Vision Statement
 
@@ -12,6 +9,13 @@ The Statistical Innovation Community aims to be the premier forum for advancing
 statistical innovation in pharmaceutical research and development. We envision a
 future where statistical innovators are recognized as essential contributors to
 medical product development, with clear career paths and organizational support.
+
+### Mission
+
+Our mission is to foster collaboration and knowledge sharing among statistical
+innovators, promoting best practices that accelerate the development of new
+medical products for patients while maintaining the highest standards of
+scientific rigor.
 
 ## Our Story
 
@@ -57,7 +61,20 @@ Our community focuses on overcoming both technical and operational obstacles:
 - Xiaolong (Ron) Yu, Gilead
 - Jinglin Zhong
 
-## Supporters
+### Recent Highlights
+
+#### 2024 Summit (September 24, 2024)
+**Location**: Amgen, Rockville, MD
+
+Key themes discussed:
+- Good practices leading to success in statistical innovation
+- Challenges facing innovation groups
+- Future directions for the statistical innovation community
+
+#### 2023 Inaugural Summit (November 9, 2023)
+**Location**: Regeneron Pharmaceuticals, Tarrytown, NY
+
+The inaugural summit brought together over 100 participants from more than 20 pharmaceutical companies, the FDA, and academic institutions.
 
 ## Community Principles
 
@@ -75,13 +92,13 @@ Open exchange of best practices, challenges, and solutions benefits the entire c
 
 ## Contact Information
 
-For more information about the Statistical Innovation Community Summit, please contact:
+For more information about the Statistical Innovation Community, please contact:
 
-**Email**: [contact@statinnovation.org](mailto:contact@statinnovation.org)
+**Email**: [statisticalinnovation@gmail.com](mailto:statisticalinnovation@gmail.com)
 
 **Follow Us**:
-- Twitter: [@statinnovation](https://twitter.com/statinnovation)
-- GitHub: [Statistical Innovation Community](https://github.com/chenguang-wang/statistical-innovation-summit)
+- Twitter: [@statisticalinnovation](https://twitter.com/statisticalinnovation)
+- GitHub: [Statistical Innovation Community](https://github.com/statisticalinnovation)
 
 ---
 
