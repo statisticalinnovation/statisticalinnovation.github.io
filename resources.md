@@ -4,8 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-# Resources and References
-
 ## Key Publications and White Papers
 
 ### Statistical Innovation in Pharmaceuticals

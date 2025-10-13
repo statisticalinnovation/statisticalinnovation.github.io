@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: The Community
+permalink: /about/
 ---
 
 ## Vision Statement
