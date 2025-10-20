@@ -1,16 +1,28 @@
 ---
 layout: page
-title: Organization 
+title: Who are we?
 permalink: /org/
 ---
 
-### Chair
-- **Satrajit Roychoudhury**, Pfizer Inc.
-
-### Organizing Committee
-- May Mo, Amgen
-- CG Wang, Regeneron
-- Elena Polverejan
-- Kentaro Takeda, Astellas
-- Xiaolong (Ron) Yu, Gilead
-- Jinglin Zhong
+The community is supported by members from the following organizations:
+- AbbVie
+- Amgen
+- Astellas 
+- AstraZeneca
+- Bayer
+- Boehringer Ingelheim
+- Bristol Myers Squibb
+- Eli Lilly and Company
+- Gilead Sciences
+- GlaxoSmithKline
+- Johnson & Johnson
+- Merck & Co.
+- Moderna
+- Novartis
+- Pfizer
+- Regeneron Pharmaceuticals
+- Roche
+- Sanofi
+- Takeda Pharmaceutical
+- UCB
+- Vertex Pharmaceuticals
