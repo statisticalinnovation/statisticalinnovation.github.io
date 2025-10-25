@@ -19,6 +19,7 @@ plugins:
 # Navigation
 header_pages:
   - orgnization.md
+  - summit-2025.md
   - summit-2024.md
   - summit-2023.md
   - resources.md
